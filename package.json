@@ -1,6 +1,6 @@
 {
   "name": "react-from-scratch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The project is a react starter application which can be used to create a similar react application without using the create-react-app command. We can configure the created application to suit our needs since it is created from scratch.",
   "main": "index.js",
   "scripts": {
