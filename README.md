@@ -43,7 +43,7 @@ module.exports = {
 };
 ```
 
-## Create a `src` directory and a `components` sub-directory
+## Create an `src` directory and a `components` sub-directory in it
 
 - Create `index.html` and `index.js` files in the `src` directory
 
