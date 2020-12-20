@@ -45,6 +45,6 @@ module.exports = {
 
 ## Create a `src` directory and a `components` sub-directory
 
-### Create `index.html` and `index.js` files in the `src` directory
+- Create `index.html` and `index.js` files in the `src` directory
 
-### Create the App component in the `components` sub-directory
+- Create the App component in the `components` sub-directory
