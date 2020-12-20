@@ -48,3 +48,12 @@ module.exports = {
 - Create `index.html` with starter HTML and `index.js` files in the `src` directory
 
 - Create the App component in the `components` sub-directory
+
+## Add scripts to `package.json`
+
+Add the follwing scripts to the `scripts` section:
+
+```
+"start": "webpack-dev-server --mode development --port 3000 --hot",
+"build": "webpack --mode production"
+```
