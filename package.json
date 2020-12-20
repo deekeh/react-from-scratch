@@ -1,0 +1,30 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "The project is a react starter application which can be used to create a similar react application without using the create-react-app command. We can configure the created application to suit our needs since it is created from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --port 3000 --hot",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "create react app",
+    "react from scratch"
+  ],
+  "author": "DK",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
